@@ -1,0 +1,14 @@
+{
+  "header": [
+    "path",
+    "age",
+    "recursive"
+  ],
+  "data": [
+    {
+      "path": "d:\\capture",
+      "age": "1000",
+      "recursive": "0"
+    }
+  ]
+}
